@@ -1,0 +1,8 @@
+Project Name: Inventory Management System
+Project Manager: Bharath
+
+Frontend: HTML, CSS, JavaScript
+Backend: Python Django
+Database: SQLite
+
+Project Status: Initial Setup
